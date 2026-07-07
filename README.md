@@ -1,6 +1,9 @@
 <div align="center">
 
 # 🚀 Asynchronous FIFO using Verilog HDL
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Asynchronous+FIFO;Clock+Domain+Crossing+(CDC);Gray+Code+Pointer+Synchronization;RTL+Verified;Simulation+Passed"/>
+</p>
 
 ### Reliable Clock Domain Crossing (CDC) Design with Gray Code Synchronization
 
@@ -14,13 +17,6 @@
 
 </p>
 
----
-
-<img src="assets/banner.png" width="100%">
-
-### ⭐ High-Speed • Dual Clock • Gray Code • Fully Synthesizable ⭐
-
-</div>
 
 ---
 
